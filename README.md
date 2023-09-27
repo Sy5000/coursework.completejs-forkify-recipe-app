@@ -19,7 +19,8 @@ npm init
 configure package.json file (if none exists)  
 - if none exists add
  
-``` "scripts": {
+```vscode
+"scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
