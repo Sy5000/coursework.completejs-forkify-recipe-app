@@ -1,7 +1,7 @@
 # forkify Project
 
-Recipe application with custom recipe uploads.
-tutorials only
+Recipe application with custom recipe uploads.  
+tutorials only (no custom features)
 
 ## Installation
 
