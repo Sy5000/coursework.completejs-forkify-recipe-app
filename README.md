@@ -27,5 +27,5 @@ npm run start
 3. server port will be displayed eg 'running on http://localhost:1234'
 
 4. vist url
-   app is bundled into '>dist' folder
-5. update maaaaate
+
+app is bundled into '>dist' folder
