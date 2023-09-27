@@ -8,7 +8,7 @@ tutorials only
 package manager = [npm]  
 web application bundler = [parcel]
 
-1. terminal (same directory)
+1. from terminal (same directory)
 
 ```bash
 
@@ -16,7 +16,7 @@ npm init
 
 ```
 
-2. run bundler from package.json file with
+2. run bundler from package.json file using
 
 ```bash
 
@@ -24,7 +24,7 @@ npm run start
 
 ```
 
-3. server port will be displayed eg 'running on http://localhost:1234'
+3. '<server>:<port>' will be displayed eg 'running on http://localhost:1234'
 
 4. vist url
 
