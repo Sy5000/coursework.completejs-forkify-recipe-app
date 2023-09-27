@@ -16,6 +16,13 @@ npm init
 
 ```
 
+configure package.json file (if none exists)  
+- if none exists add {
+- "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+}
 2. run bundler from package.json file using
 
 ```bash
